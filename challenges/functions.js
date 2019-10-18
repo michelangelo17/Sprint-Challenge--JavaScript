@@ -52,5 +52,4 @@ function myFunction() {
   };
   nestedFunction();
 }
-debugger;
 myFunction();
